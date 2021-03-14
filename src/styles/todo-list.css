@@ -1,0 +1,16 @@
+.dark-mode {
+    background-color: black;
+    color: white;
+}
+
+.mistake {
+    color: red;
+}
+
+.colorGreen {
+    background-color: green;
+}
+
+.colorYellow {
+    background-color: gold;
+}
